@@ -1,0 +1,38 @@
+body {
+  background-color: #fffff0;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#adb39d;
+  border-width:5px;
+  width: 75%
+}
+img:hover {
+  height: 400px;
+  width: 400px;
+}
+h1 {
+  color:  #adb39d;
+  font-style: italic;
+
+}
+h3 {
+  font-style: italic;
+  color:#915f6d;
+}
+
+/**************** ID Selector ********************/
+#Picture_Block {
+  	background-color: #fffff0;
+}
+
+/**************** Class Selector ********************/
+.Experience_Table {
+  background-color:  #fffff0;
+
+}
+
+.Image_Shape {
+  border-radius: 100%
+}
